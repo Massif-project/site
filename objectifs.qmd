@@ -1,0 +1,62 @@
+---
+title: "Objectifs et lots de travaux"
+---
+
+```{r, eval=F, include=FALSE}
+# chunk vide nécessaire pour l'affiche des dates de mise-à-jour au format R
+```
+
+
+# Objectifs
+Le projet MASSIF a pour ambition de développer et de tester des solutions permettant de lever ces verrous, depuis la conception d’outils de diagnostic automatisés jusqu’à la visualisation et l’analyse des données en temps réel.
+
+- Produire les ressources nécessaires à l’identification experte des pollinisateurs, des xylophages et des saproxylophages (collections, identification morphologique, barcodes moléculaires, base de données photographiques)
+- Développer des solutions basées sur l’intelligence artificielle pour automatiser l’identification aussi bien au laboratoire que sur le terrain
+- Concevoir des capteurs et instruments pour automatiser les systèmes de piégeage et progresser vers des solutions non létales
+- Standardiser les méthodes de piégeage pour aller vers un déploiement à large échelle
+- Développer et configurer des solutions numériques pour la mise à disposition et la visualisation en temps réel des résultats
+
+# Lots de travaux
+
+::: {.figure .text-center}
+![Organigramme du projet MASSIF](00-images/00-lts.png){width=80% fig-cap="Organigramme du projet MASSIF" .text-center}
+:::
+
+**LTP0 – Coordination du projet et diffusion des résultats**
+
+**LT1 –  Développement des bases de données de référence pour la création d'un ensemble d'outils pour l'identification** 
+
+- Tâche 1.1. Base de données pour l'identification moléculaire des spécimens (barcoding)
+- Tâche 1.2. Base de données de photographies de référence annotées par des experts
+
+**LT2 – Développement d'un flux de travail et entrainement des algorithmes d'IA pour l'identification des insectes au laboratoire et sur le terrain**
+
+- Tâche 2.1. Tri et identification automatique des insectes au laboratoire 
+- Tâche 2.2. Modèles de vision embarquée pour l'identification non léthale des insectes piégés sur le terrain
+
+**LT3 – Optimisation des stratégies de piégeage et développement des capteurs de suivi** 
+
+- Tâche 3.1. Optimisation des systèmes de piégeage et des attractifs pour le suivi à long terme
+- Tâche 3.2. Développement d'un système d'analyse d'image embarqué pour le suivi à long terme
+
+**LT4 – Conception et mise en œuvre de la stratégie d'échantillonnage et de la chaîne d'analyse des données** 
+- Tâche 4.1. Définition et implémentation du plan d'échantillonnage dans les sites pilotes 
+- Tâche 4.2. Définition et implémentation d'une chaîne d'analyse des données : sélection des métriques et des méthodes de calcul
+- Tâche 4.3. Définition de la stratégie d'échantillonnage pour le suivi à large échelle
+
+**LT5 – Gestion des données et outils de visualisation**
+
+- Tâche 5.1. Configuration d’une infrastructure institutionnelle pour stocker, sécuriser et interroger les bases de données
+- Tâche 5.2. Développement et déploiement d'un outil web public pour l'exploration de données via les outils produits dans le WP4
+- Tâche 5.3. Mise à disposition de configurations et documentations libres et Open Source pour la réplication ou la migration vers d'autres infrastructures
+
+
+
+
+
+
+<br><br>
+---
+
+Dernière mise-à-jour : `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8") ; format(Sys.time(), "%d %B %Y")`
+
