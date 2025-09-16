@@ -6,11 +6,29 @@ title: "Ressources"
 # chunk vide nécessaire pour l'affiche des dates de mise-à-jour au format R
 ```
 
-> Cette page propose des documents décrivant le projet, ainsi que les protocoles et les résultats issus des travaux menés dans le cadre de MASSIF.
+> Cette page propose des documents décrivant le projet, ainsi que les protocoles et les résultats issus des travaux réalisés dans le cadre de MASSIF.
+
+---
 
 <details> 
-<summary>[+/-] &#127467;&#127479; Lire le <b>résumé du projet MASSIF publié dans la Lettre du DSF</b><br></summary>
-*Carole Kerdelhué, INRAE, CBGP, coordinatrice du projet*<br>
+<summary>[+/-] &#127467;&#127479; Voir/télécharger le <b>poster du projet MASSIF</b> présenté lors des journées annuelles du PEPR FORESTT le 1 et 2 octobre 2025 à Montpellier.
+<br><br></summary>
+
+::: {.figure .text-center}
+*Cliquez sur l’image pour zoomer et télécharger le poster.* <br><br>
+<a href="01-pubs/01-Poster_Massif_Montpellier2025-Def-15-sept-2025-A4.jpg" download="Poster_MASSIF.jpg">
+  <img src="01-pubs/01-Poster_Massif_Montpellier2025-Def-15-sept-2025-A4.jpg" width="80%" alt="Poster de présentation du projet MASSIF" style="display:block; margin:auto;">
+</a>
+
+:::
+
+</details>
+
+---
+
+<details> 
+<summary>[+/-] &#127467;&#127479; Lire le <b>résumé du projet MASSIF publié dans la Lettre du DSF.</b><br></summary>
+*Carole Kerdelhué, INRAE, CBGP, coordinatrice du projet.*<br>
 Le projet MASSIF (Monitoring Automatisé et Systèmes de Surveillance Intelligents de la biodiversité des insectes dans les écosystèmes Forestiers français) a été retenu récemment pour un financement de 4 ans (2025-2029) dans le cadre du PEPR FORESTT, à hauteur de 1,2 millions d'euros.
 
 ::: {.figure .text-center}
@@ -24,7 +42,7 @@ Au-delà des bases de données, et grâce à la collaboration de partenaires aya
 
 </details>
 
-<br><br>
+<br>
 
 ---
 
